@@ -2,6 +2,7 @@ package mx.edu.upp.moviles;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+//Ortega Alfredo
 
 public class MainActivity extends AppCompatActivity {
 
