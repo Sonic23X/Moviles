@@ -3,6 +3,7 @@ package mx.edu.upp.moviles;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 //Ortega Alfredo
+//Limón García Denise Alejandra (Limón Was here muajajaja)
 
 public class MainActivity extends AppCompatActivity {
 
